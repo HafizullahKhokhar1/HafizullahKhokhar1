@@ -56,7 +56,6 @@ I welcome contributions and collaborations on my projects. If you're interested 
 
 
 
-Feel free to customize this `README.md` further or let me know if there are any additional details you'd like to include.
 <!--
 **HafizullahKhokhar1/HafizullahKhokhar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
